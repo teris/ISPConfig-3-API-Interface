@@ -35,7 +35,7 @@ $mail_from = "SubDomainService <soap@localhost>";						//Absender Mail
 
 >>
 
-# Beipiel und Demo hier
+# Beispiel und Demo hier
 https://soap.orga-consult.eu
 
 # Rückfragen
